@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 I help companies grow and deliver excellent services through quality testing across different digital systems and platforms. Enabling them to be user-friendly and functional for business success.
 #### Where to find me
-- [Instagram](https://instagram/vanesamelov)
+[![Instagram](https://img.shields.io/badge/Instagram-@vanesamelov-E4405F?style=for-the-badge&logo=instagram&logoColor=withe&labelColor=101010)](https:instagram/vanesamelov)
   
